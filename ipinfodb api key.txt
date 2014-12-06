@@ -1,4 +1,4 @@
 33e15154f04db03754abde6332ff401817c5b0752feb851e0fcddb5b5053098f
 
-this is a personal key and is here only fo testing pourpose with ipinfodn database.
+this is a personal key and is here only for testing pourpose with ipinfodb database.
 Registration on ipInfoDb is free of charge. Please use your own.
